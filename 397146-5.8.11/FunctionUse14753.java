@@ -1,0 +1,6 @@
+import cn.hutool.socket.nio.Operation;
+public class FunctionUse14753 {
+public void funcUse() {
+Operation operation = new Operation();
+}
+}
